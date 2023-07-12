@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">NavigationSample</string>
+    <string name="hamster_fact">Хомяки боятся всего, даже самих себя.\nХомяки не мерзнут даже при минусовой температуре.\nИли мерзнут.</string>
+    <string name="cat_fact">У всех котов есть лапы и хвост.\nКоты много спят и постоянно хотят есть.</string>
+</resources>
